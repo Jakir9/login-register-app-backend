@@ -20,6 +20,20 @@
       "password": "password456",
       "name": "User Two",
       "role": "user"
+    },
+    {
+      "id": 4,
+      "email": "jakir@jakir.com",
+      "password": "password",
+      "name": "",
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "email": "test@test.com",
+      "password": "test",
+      "name": "",
+      "role": "user"
     }
   ]
 }
